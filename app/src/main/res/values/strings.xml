@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Kishorapp</string>
+    <string name="sign_in">sign in</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">LOGIN</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="or_sign_in_with">or sign in with</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo5">TODO5</string>
+    <string name="january">January</string>
+    <string name="february">February</string>
+    <string name="march">March</string>
+    <string name="april">April</string>
+    <string name="june">june</string>
+    <string name="may">may</string>
+    <string name="july">july</string>
+    <string name="august">august</string>
+    <string name="september">september</string>
+    <string name="october">october</string>
+    <string name="november">november</string>
+    <string name="december">december</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="notes">notes</string>
+    <string name="jan">jan</string>
+    <string name="feb">feb</string>
+    <string name="go_to_calneder">Go to calneder</string>
+    <string name="go_to_calendar">go_to_calendar</string>
+    <string name="Calendar">Calendar</string>
+    <string name="the_date">the date</string>
+</resources>
